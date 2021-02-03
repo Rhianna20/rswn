@@ -31,4 +31,6 @@ HUGO_ENABLEGITINFO = "true"
 
 [submodule "themes/cactus]
 path = themes/cactus
-url = themes/cactus
+url = git://github.com/Rhianna20/rswn
+
+
