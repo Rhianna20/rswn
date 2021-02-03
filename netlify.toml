@@ -29,8 +29,3 @@ HUGO_VERSION = "0.80.0"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
-[submodule "themes/cactus]
-path = themes/cactus
-url = git://github.com/Rhianna20/rswn
-
-

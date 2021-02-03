@@ -74,3 +74,9 @@ weight = 4
   [[params.social]]
     name = "email"
     link = "rhiannastuart@Hotmail.co.uk"  # no need for "mailto:" in the head
+
+[submodule "themes/cactus]
+path = themes/cactus
+url = git://github.com/Rhianna20/rswn
+
+CI='' npm run build
