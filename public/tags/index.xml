@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Develop with Rhi</title>
+    <link>https://DevelopwithRhi.com/tags/</link>
+    <description>Recent content in Tags on Develop with Rhi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Rhianna Stuart</copyright><atom:link href="https://DevelopwithRhi.com/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

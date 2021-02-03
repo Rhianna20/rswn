@@ -1,7 +1,7 @@
 ---
 title: So.. am I a Developer now?
 date: 2021-01-12 16:56:54
-draft: true
+draft: false
 categories: life
 keywords: 
 

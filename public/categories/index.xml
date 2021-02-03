@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Develop with Rhi</title>
+    <link>https://DevelopwithRhi.com/categories/</link>
+    <description>Recent content in Categories on Develop with Rhi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Rhianna Stuart</copyright>
+    <lastBuildDate>Tue, 12 Jan 2021 16:56:54 +0000</lastBuildDate><atom:link href="https://DevelopwithRhi.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>life</title>
+      <link>https://DevelopwithRhi.com/categories/life/</link>
+      <pubDate>Tue, 12 Jan 2021 16:56:54 +0000</pubDate>
+      
+      <guid>https://DevelopwithRhi.com/categories/life/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

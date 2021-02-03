@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>life on Develop with Rhi</title>
+    <link>https://DevelopwithRhi.com/categories/life/</link>
+    <description>Recent content in life on Develop with Rhi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Rhianna Stuart</copyright>
+    <lastBuildDate>Tue, 12 Jan 2021 16:56:54 +0000</lastBuildDate><atom:link href="https://DevelopwithRhi.com/categories/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>So.. am I a Developer now?</title>
+      <link>https://DevelopwithRhi.com/posts/post1/</link>
+      <pubDate>Tue, 12 Jan 2021 16:56:54 +0000</pubDate>
+      
+      <guid>https://DevelopwithRhi.com/posts/post1/</guid>
+      <description>I began placement excited and curious,throughout the christmas holidays my mind would often wonder off due to excitement and nervousness. I wanted to know what sort of tickets I’d work on in the Reliability and Engineering team, i couldn&amp;rsquo;t even take a guess, I was clueless. Being put into Tier 4, shock the tables my plans were scraped, with so much uncertainty I really didn&amp;rsquo;t know what to expect. A month in and I am feeling optimistic and beyond excited as my journey continues.</description>
+    </item>
+    
+  </channel>
+</rss>
