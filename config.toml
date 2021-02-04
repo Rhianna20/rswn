@@ -1,4 +1,4 @@
-baseURL = "https://DevelopwithRhi.com"
+baseURL = "/"
 languageCode = "en-us"
 title = "Develop with Rhi"
 theme = "cactus"
