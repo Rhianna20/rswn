@@ -45,7 +45,7 @@ weight = 4
   googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
-  description = "My web journal documenting my journey into tech industry. My creative dumping ground."
+  description = "My Digital Note Book"
   mainSection = "Week Notes" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
